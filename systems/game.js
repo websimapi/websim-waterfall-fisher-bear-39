@@ -1,5 +1,3 @@
-
-```javascript
 import * as THREE from 'three';
 import { scene } from '../scene.js';
 import { createBear, updateBear } from '../entities/bear.js';
